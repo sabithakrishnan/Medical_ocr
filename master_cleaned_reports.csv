@@ -1,0 +1,10 @@
+Source_File,Panel_Category,Test_Component,Result,Flag,Reference_Range,Units
+data1.jpg,Basic Metabolic  (BMP),Glucose,105.0,High,70 -100,mgldL
+data2.jpg,Chemistry,Glucose (Fasting),165.0,Normal,70 - 100,mgldL
+data2.jpg,Chemistry,BUN,28.0,Normal,7 - 20,mgldL
+data2.jpg,Chemistry,Sodium,155.0,Normal,135 - 145,mmol/L
+image_3640d20b.jpg,Hematology,RBC,4.2,Normal,4.2 -5.4,mlmm3
+image_3640d20b.jpg,Hematology,Hematocrit,40.1,Normal,37.0 - 47.0,%
+image_3640d20b.jpg,Chemistry,Glucose (Fasting),98.0,Normal,70 - 100,mgldL
+image_3640d20b.jpg,Chemistry,BUN,15.0,Normal,7 - 20,mgldL
+image_3640d20b.jpg,Chemistry,Creatinine,0.9,Normal,0.6 - 1,",.3 mgldL"
